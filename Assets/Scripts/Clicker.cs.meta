@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 3644d3e70de5a2840a2735e83335bb4c
+timeCreated: 1484897212
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - blocky: {fileID: 11400000, guid: d03a688ab10445d4ebdafd62150decdd, type: 2}
+  - burger: {instanceID: 0}
+  - shop: {instanceID: 0}
+  - upgrade1: {instanceID: 0}
+  - musictex: {instanceID: 0}
+  - clicksound: {instanceID: 0}
+  - shopsound: {instanceID: 0}
+  - closesound: {instanceID: 0}
+  - musicsound: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
